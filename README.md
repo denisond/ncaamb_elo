@@ -1,2 +1,2 @@
 # ncaamb_elo
-Scripts generating NCAAMB Elo rating scores and custom plotly web app
+Scripts generating NCAA men's basketball Elo rating scores and [custom Elo web app](https://denisond.github.io/elo_ratings.html)
